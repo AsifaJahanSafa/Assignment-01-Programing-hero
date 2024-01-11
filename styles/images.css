@@ -79,3 +79,80 @@ margin-left: auto;
     text-align: center;
     letter-spacing: 1px;
 }
+
+/* Bonus div */
+
+.Bonus{
+    background-color: white;
+    max-width: 600px;
+    max-height: 600px;
+   
+    text-align: center;
+    padding: 0px 300px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    margin-bottom:200px ;
+    background-color:white;
+    overflow: hidden;
+}
+
+
+
+.bonus-title-1{
+    max-width: 300px;
+    max-height: 100px;
+    color:red;
+    font-size: 40px;
+    font-family: 'Open Sans', sans-serif;
+    padding:0px 10px;
+    margin-bottom: 0px;
+    font-weight: 400;
+    text-align: center;
+    margin-right: auto;
+    margin-left:auto
+
+}
+
+.bonus-title-2{
+    max-width: 400px;
+    max-height: 10px;
+    color:rgb(211, 32, 166);
+    font-size: 14px;
+    font-weight: 400;
+   margin-left: auto;
+   margin-right: auto;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+
+    font-family: 'Open Sans', sans-serif;
+}
+
+.bonus-title-3{
+    color:Black;
+    font-size: 30px;
+    font-weight: 600;
+    max-width: 500px;
+    max-height: 200px;
+    margin-left: auto;
+   margin-right: auto;
+   margin-top:15px;
+   margin-bottom:250px;
+   padding-bottom:50px;
+   font-family: 'Open Sans', sans-serif;
+    
+   
+    
+
+}
+
+.img-bonus{
+
+   max-width: 600px;
+   max-height: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    margin-bottom: 350px;
+    margin-top:100px
+}
