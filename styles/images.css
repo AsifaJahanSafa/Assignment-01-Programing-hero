@@ -170,9 +170,10 @@ margin-left: auto;
     margin-top:500px;
     margin-right: auto;
     margin-left: auto;
-    max-width: 1300px;
+    max-width: 1200px;
     max-height: 500px;
     display: flex;
+    justify-content: space-between;
 }
 
 .mid-night-party-title{
@@ -195,7 +196,8 @@ margin-left: auto;
     max-height:400px;
     text-align: center;
     margin-top: 20px;
-    text-align: right;
+    text-align: left;
+    padding:50px
     
 }
 .join-button{
